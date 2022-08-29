@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Belgrano.mp3-50c343de67449bbda4cc4725daeefc79.mp3str"
+
+[deps]
+
+source_file="res://BGM/Belgrano.mp3"
+dest_files=[ "res://.import/Belgrano.mp3-50c343de67449bbda4cc4725daeefc79.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
